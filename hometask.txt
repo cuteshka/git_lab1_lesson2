@@ -1,1 +1,6 @@
 ничем не отличаются
+4 коммита:
+1. heat added
+2. Merge remote-tracking branch 'origin/hat'
+3. Merge branch 'boots_buttons'
+4. added hometask
